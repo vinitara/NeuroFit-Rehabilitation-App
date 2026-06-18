@@ -47,3 +47,23 @@ ___
 * This system helps _**motivate users to stay consistent with their rehabilitation**_ and encourages long-term engagement with daily exercises.
 
 ## App Content
+
+<h3>Authentication & Home</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44dc0f0d-1598-4721-b9f7-32391c88a712" alt="Login Page" width="300"/>
+  <img src="https://github.com/user-attachments/assets/cd85f8d2-c018-4bd4-8810-cf4fba53d5d6" alt="Home Page" width="300"/>
+</p>
+
+<h3>Exercise Features</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d6acd39-f0f1-47d3-a768-835d6416047e" alt="Exercise Page" width="300"/>
+  <img src="https://github.com/user-attachments/assets/920a4d88-e7ee-4b83-bed9-08f740f0189b" alt="Information Page" width="300"/>
+  <img src="https://github.com/user-attachments/assets/23fbb01e-d931-4712-907e-6e08304e23df" alt="Camera Page" width="300"/>
+</p>
+
+<h3>Daily Challenge, Calendar, Profile</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17ff3c78-0b33-4c16-b0a8-00d96a286a78" alt="Daily Challenge Page" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1d1ecac3-1b08-4aa3-882b-99ec753bbc84" alt="Calendar Page" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5890e5e7-dc72-4bd1-b8db-39ba016b0c02" alt="Profile Page" width="300"/>
+</p>
